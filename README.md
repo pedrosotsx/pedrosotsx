@@ -117,12 +117,12 @@ Trabalho com princípios **SOLID**, **Clean Architecture** e **Repository Patter
       <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedrosotsx&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=e6edf3&ring_color=58a6ff" />
     </td>
     <td>
-      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrovieira&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=e6edf3&langs_count=8" />
+      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrosotsx&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=e6edf3&langs_count=8" />
     </td>
   </tr>
 </table>
 
-<img width="70%" src="https://streak-stats.demolab.com?user=pedrovieira&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=ff7b72&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e" />
+<img width="70%" src="https://streak-stats.demolab.com?user=pedrosotsx&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=ff7b72&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e" />
 
 <br/><br/>
 
