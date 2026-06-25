@@ -1,60 +1,228 @@
+```md
 <div align="center">
-<!-- Animated header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Pedro%20Vieira&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer&descAlignY=58&descSize=20&animation=fadeIn" width="100%"/>
-<!-- Typing animation -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+;React+%7C+Node.js+%7C+PostgreSQL;QA+%26+Testes+E2E+com+Cypress;Sempre+buscando+novos+desafios!" alt="Typing SVG" />
-</a>
-<br/>
-<!-- Profile views & social badges -->
+
+# Pedro Vieira
+
+### Full Stack Developer • Backend .NET Specialist
+
+📍 Fortaleza - CE, Brasil  
+💼 Disponível para oportunidades remotas
+
+> *Building scalable applications with Clean Architecture and modern technologies.*
+
+<br>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;ASP.NET+Core+Developer;React+Developer;Clean+Architecture+Enthusiast;Always+Learning)](https://git.io/typing-svg)
+
+</div>
+
+---
+
+# 👨‍💻 Sobre mim
+
+Sou Desenvolvedor Full Stack com foco em desenvolvimento de aplicações escaláveis utilizando **C# e ASP.NET Core** no backend e **React** no frontend.
+
+Tenho experiência no desenvolvimento de APIs REST, arquitetura limpa, banco de dados relacionais e boas práticas de engenharia de software, sempre buscando código organizado, performático e de fácil manutenção.
+
+### Atualmente trabalho com:
+
+- Desenvolvimento de APIs REST
+- ASP.NET Core
+- React
+- Entity Framework Core
+- SQL Server
+- PostgreSQL
+- Clean Architecture
+- SOLID
+- Repository Pattern
+- Dependency Injection
+- Git Flow
+- Microsserviços
+- Mobile First
+- Responsive Design
+- GitHub Copilot
+
+---
+
+# 🚀 Tech Stack
+
+## Frontend
+
 <p>
-  <img src="https://komarev.com/ghpvc/?username=pedrosotsx&style=for-the-badge&color=7c3aed&label=VISITAS" alt="profile views"/>
-  <a href="https://www.linkedin.com/in/pedro-vieira-b98909210/">
-    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:pedroso.devce@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  <a href="https://devpedroso.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfólio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
-  </a>
-</div>
+<img src="https://skillicons.dev/icons?i=react,nextjs,js,html,css,tailwind" />
+</p>
+
+## Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=cs,dotnet" />
+</p>
+
+<p>
+
+- ASP.NET Core
+- Entity Framework Core
+- REST API
+- JWT Authentication
+
+</p>
+
+## Banco de Dados
+
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,mysql" />
+</p>
+
+- SQL Server
+- PostgreSQL
+
+## Arquitetura
+
+- Clean Architecture
+- SOLID
+- Repository Pattern
+- DTO Pattern
+- Dependency Injection
+
+## Testes
+
+- xUnit
+- NUnit
+- Moq
+- FluentAssertions
+
+## Ferramentas
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,docker,swagger" />
+</p>
+
+- Railway
+- GitHub Copilot
 
 ---
 
-## ⚡ Sobre mim
-
-```ts
-const pedro = {
-  role:      "Full Stack Developer",
-  location:  "Brasil 🇧🇷",
-  focus:     ["Web Apps", "APIs REST", "Testes E2E"],
-  currently: "Construindo coisas que importam",
-  contact:   "pedroso.devce@gmail.com",
-};
-```
-
----
-
-## 🛠 Stack
+# 📊 GitHub Analytics
 
 <div align="center">
 
-**Front-end**
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind&theme=dark" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight&hide_border=true"/>
 
-**Back-end & Banco de dados**
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,postgres&theme=dark" />
-
-**QA & Ferramentas**
-
-<img src="https://skillicons.dev/icons?i=cypress,postman,git,github,vscode,linux&theme=dark" />
+<img src="https://streak-stats.demolab.com?user=SEU_USUARIO&theme=tokyonight&hide_border=true"/>
 
 </div>
 
-<!-- Footer wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=120&section=footer" width="100%"/>
+---
+
+# ⭐ Projetos em Destaque
+
+## 💰 FinTrack
+
+Sistema financeiro completo para gerenciamento de receitas e despesas.
+
+**Tecnologias**
+
+- ASP.NET Core
+- React
+- PostgreSQL
+- Entity Framework Core
+- JWT
+
+🔗 GitHub: https://github.com/SEU_USUARIO/fintrack
+
+---
+
+## 📚 Biblioteca API
+
+API REST para gerenciamento de biblioteca com autenticação e CRUD completo.
+
+**Tecnologias**
+
+- ASP.NET Core
+- Entity Framework Core
+- SQL Server
+
+🔗 GitHub:
+
+---
+
+## 📅 Sistema de Agendamento
+
+Sistema para controle de agendamentos com autenticação e gerenciamento de usuários.
+
+**Tecnologias**
+
+- React
+- ASP.NET Core
+- PostgreSQL
+
+🔗 GitHub:
+
+---
+
+## 🏥 Website Clínica
+
+Website institucional moderno e responsivo.
+
+**Tecnologias**
+
+- React
+- Tailwind CSS
+
+🔗 GitHub:
+
+---
+
+# 📚 Atualmente estudando
+
+- Next.js
+- React Testing Library
+- Jest
+- Docker
+- Azure
+- CI/CD
+- Kubernetes
+
+---
+
+# 📫 Contato
+
+<p align="left">
+
+<a href="https://github.com/SEU_USUARIO">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/SEU_LINK">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:SEU_EMAIL">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://SEU_PORTFOLIO.com">
+<img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+![](https://komarev.com/ghpvc/?username=SEU_USUARIO&style=for-the-badge&color=0e75b6)
 
 </div>
+
+---
+
+<div align="center">
+
+> **"First, solve the problem. Then, write the code."**  
+> *— John Johnson*
+
+</div>
+```
