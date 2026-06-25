@@ -223,7 +223,7 @@ Trabalho com princípios **SOLID**, **Clean Architecture** e **Repository Patter
 ## Experience
 
 ```
-Freelancer Full Stack                                              2023 – Presente
+Freelancer Full Stack                                              2025 – Presente
 ─────────────────────────────────────────────────────────────────────────────────
   ▸ Desenvolvimento de sistemas web full stack para clientes     
   ▸ Arquitetura e implementação de APIs REST com ASP.NET Core    
@@ -280,19 +280,19 @@ Freelancer Full Stack                                              2023 – Pres
 
 <div align="center">
 
-<a href="https://github.com/pedrovieira">
+<a href="https://github.com/pedrosotsx">
   <img src="https://img.shields.io/badge/GitHub-161b22?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 &nbsp;
-<a href="https://linkedin.com/in/pedrovieira">
+<a href="https://www.linkedin.com/in/pedro-vieira-b98909210/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 &nbsp;
-<a href="mailto:pedro@email.com">
+<a href="mailto:pedroso.devce@email.com">
   <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 &nbsp;
-<a href="https://pedrovieira.dev">
+<a href="https://pedrocodes.vercel.app">
   <img src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 
