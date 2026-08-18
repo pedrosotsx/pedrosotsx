@@ -81,12 +81,34 @@ Atualmente focado em solidificar minha base em **APIs REST, banco de dados relac
 ## GitHub Stats
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=pedrosotsx&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&title_color=a5b4fc&icon_color=818cf8&text_color=e2e8f0&bg_color=0d1117" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrosotsx&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&title_color=a5b4fc&text_color=e2e8f0&bg_color=0d1117" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pedrosotsx&theme=tokyonight" width="100%" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=pedrosotsx&theme=tokyonight&hide_border=true&background=0d1117&stroke=4f46e5&ring=818cf8&fire=a5b4fc&currStreakLabel=a5b4fc&sideLabels=e2e8f0&currStreakNum=ffffff&sideNums=e2e8f0&dates=64748b" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pedrosotsx&theme=tokyonight" height="160" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pedrosotsx&theme=tokyonight" height="160" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=pedrosotsx&theme=tokyonight" height="160" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=pedrosotsx&theme=tokyonight&utcOffset=-3" height="160" />
+</div>
+
+---
+
+## Streak & Linguagens
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=pedrosotsx&theme=tokyonight&hide_border=true&background=0d1117&stroke=4f46e5&ring=818cf8&fire=a5b4fc&currStreakLabel=a5b4fc&sideLabels=e2e8f0&currStreakNum=ffffff&sideNums=e2e8f0&dates=64748b" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrosotsx&layout=donut&theme=tokyonight&hide_border=true&langs_count=6&title_color=a5b4fc&text_color=e2e8f0&bg_color=0d1117" height="200" />
+</div>
+
+---
+
+## Troféus
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=pedrosotsx&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" width="100%" />
 </div>
 
 ---
@@ -94,7 +116,7 @@ Atualmente focado em solidificar minha base em **APIs REST, banco de dados relac
 ## Contribuições
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pedrosotsx&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=a5b4fc&line=4f46e5&point=818cf8" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pedrosotsx&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=a5b4fc&line=4f46e5&point=818cf8" width="100%" />
 </div>
 
 ---
