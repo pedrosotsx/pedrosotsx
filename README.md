@@ -8,7 +8,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Pedro%20Vieira-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-vieira-b98909210)
 [![GitHub](https://img.shields.io/badge/GitHub-pedrosotsx-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pedrosotsx)
-[![Email](https://img.shields.io/badge/Email-Contato-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:SEU_EMAIL_AQUI)
+[![Email](https://img.shields.io/badge/Email-Contato-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pedroso.devce@gmail.com)
 
 </div>
 
@@ -88,8 +88,6 @@ Atualmente focado em solidificar minha base em **APIs REST, banco de dados relac
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pedrosotsx&theme=tokyonight" height="160" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pedrosotsx&theme=tokyonight" height="160" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=pedrosotsx&theme=tokyonight" height="160" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=pedrosotsx&theme=tokyonight&utcOffset=-3" height="160" />
-</div>
 
 ---
 
