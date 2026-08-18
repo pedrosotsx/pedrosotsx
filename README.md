@@ -91,26 +91,6 @@ Atualmente focado em solidificar minha base em **APIs REST, banco de dados relac
 
 ---
 
-## Streak & Linguagens
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=pedrosotsx&theme=tokyonight&hide_border=true&background=0d1117&stroke=4f46e5&ring=818cf8&fire=a5b4fc&currStreakLabel=a5b4fc&sideLabels=e2e8f0&currStreakNum=ffffff&sideNums=e2e8f0&dates=64748b" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrosotsx&layout=donut&theme=tokyonight&hide_border=true&langs_count=6&title_color=a5b4fc&text_color=e2e8f0&bg_color=0d1117" height="200" />
-</div>
-
----
-
-## Troféus
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=pedrosotsx&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" width="100%" />
-</div>
-
----
-
 ## Contribuições
 
 <div align="center">
