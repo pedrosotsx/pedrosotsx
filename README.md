@@ -1,10 +1,10 @@
 # Olá, eu sou o Pedro Vieira 👋
 
-Desenvolvedor **Full Stack** com foco em **back-end Java**, também trabalhando com JavaScript e TypeScript.
+Desenvolvedor **Full Stack** com foco em **Java (Spring Boot)** no backend e **React/TypeScript** no frontend. Base sólida em POO, SOLID, Clean Code, APIs REST e PostgreSQL. Experiência prática em ambiente ágil com versionamento Git/GitHub.
 
 ## 🎓 Formação
 
-- Tecnólogo em Análise e Desenvolvimento de Sistemas — UNICSUL (conclusão prevista: 2027)
+- Tecnólogo em Análise e Desenvolvimento de Sistemas — UNICSUL
 
 ## 📚 Cursos
 
@@ -43,3 +43,5 @@ Desenvolvedor **Full Stack** com foco em **back-end Java**, também trabalhando 
 ## 🌐 Links
 
 - Portfólio: [pedrosodev.vercel.app](https://pedrosodev.vercel.app)
+- LinkedIn: [Pedro Vieira](https://www.linkedin.com/in/pedro-vieira-b98909210/)
+- Instagram: [@devpedroso](https://www.instagram.com/devpedroso)
