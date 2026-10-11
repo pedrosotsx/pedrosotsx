@@ -1,8 +1,6 @@
-<img src="https://images.unsplash.com/photo-1571171637578-41bc2dd41cd2?q=80&w=1170&h=300&fit=crop&crop=center&auto=format" alt="Header" width="100%" />
+# Olá, eu sou o Pedro Vieira 👋
 
-# Olá, eu sou o Pedro 👋
-
-Desenvolvedor **Full Stack** com foco em **back-end Java**, também trabalhando com JavaScript e TypeScript. Moro em Fortaleza, CE.
+Desenvolvedor **Full Stack** com foco em **back-end Java**, também trabalhando com JavaScript e TypeScript.
 
 ## 🎓 Formação
 
